@@ -1,0 +1,8 @@
+print("PERSONAL INTRODUCTION")
+print("=====================")
+print("Name: Chukwuemeka Osinachi Ovoka")
+print("VUG/SEN/26/15973")
+print("Programme: Software Engineering")
+print("Level: 100")
+print()
+print("I want to learn programming to make life easier for everyone :) .")
